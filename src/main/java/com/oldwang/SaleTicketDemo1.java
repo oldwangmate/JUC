@@ -43,5 +43,5 @@ class Ticket{
             System.out.println(Thread.currentThread().getName()+"卖出了"+(number--)+"票,剩余"+number);
         }
     }
-
 }
+
